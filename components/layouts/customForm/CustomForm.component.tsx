@@ -96,7 +96,7 @@ const CustomForm: FC<Props> = ({ activeStep }) => {
                 descripcion: data.project.description_large
             },
             {
-                tipo: 3,
+                tipo: 4,
                 descripcion: data.project.conclusion
             }
         ];
