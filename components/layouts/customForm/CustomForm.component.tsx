@@ -119,7 +119,7 @@ const CustomForm: FC<Props> = ({ activeStep }) => {
                 url: data.project.image3
             },
             {
-                tipo: 3,
+                tipo: 4,
                 url: data.project.image4
             }
         ];
